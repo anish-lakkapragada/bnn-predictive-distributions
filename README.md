@@ -1,4 +1,4 @@
-# Code for *What if we didn't need to approximate posteriors?* 
+# Code for [*What if we didn't need to approximate posteriors?*](https://anish.lakkapragada.com/posts/vc-rademacher-test/)
 
 
 - `blr.py` provides code for deriving the exact posterior, as per Bayesian Linear Regression. 
